@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/fundament/static/css/main.b30ff817.chunk.css",
+    "main.js": "/fundament/static/js/main.ef9f6c9b.chunk.js",
+    "main.js.map": "/fundament/static/js/main.ef9f6c9b.chunk.js.map",
+    "runtime-main.js": "/fundament/static/js/runtime-main.607132ed.js",
+    "runtime-main.js.map": "/fundament/static/js/runtime-main.607132ed.js.map",
+    "static/js/2.dcd3c693.chunk.js": "/fundament/static/js/2.dcd3c693.chunk.js",
+    "static/js/2.dcd3c693.chunk.js.map": "/fundament/static/js/2.dcd3c693.chunk.js.map",
+    "index.html": "/fundament/index.html",
+    "static/css/main.b30ff817.chunk.css.map": "/fundament/static/css/main.b30ff817.chunk.css.map",
+    "static/js/2.dcd3c693.chunk.js.LICENSE.txt": "/fundament/static/js/2.dcd3c693.chunk.js.LICENSE.txt",
+    "static/media/VIBER-LOGO.aa0541f3.png": "/fundament/static/media/VIBER-LOGO.aa0541f3.png",
+    "static/media/annexes.48c28773.jpg": "/fundament/static/media/annexes.48c28773.jpg",
+    "static/media/bath.b93e142d.jpg": "/fundament/static/media/bath.b93e142d.jpg",
+    "static/media/bridge.f2f444de.jpg": "/fundament/static/media/bridge.f2f444de.jpg",
+    "static/media/canopy.66979f95.jpg": "/fundament/static/media/canopy.66979f95.jpg",
+    "static/media/fence.43727d90.jpg": "/fundament/static/media/fence.43727d90.jpg",
+    "static/media/garage.29096c1b.webp": "/fundament/static/media/garage.29096c1b.webp",
+    "static/media/gazebos.ef3156ea.jpg": "/fundament/static/media/gazebos.ef3156ea.jpg",
+    "static/media/greenhouse.70815489.jpg": "/fundament/static/media/greenhouse.70815489.jpg",
+    "static/media/style.scss": "/fundament/static/media/headerImg1.81b3b026.jpg",
+    "static/media/home.805ab60b.jpg": "/fundament/static/media/home.805ab60b.jpg",
+    "static/media/noun_Best price_3328523.4012b5cc.svg": "/fundament/static/media/noun_Best price_3328523.4012b5cc.svg",
+    "static/media/noun_Calendar_3824152.42f220d6.svg": "/fundament/static/media/noun_Calendar_3824152.42f220d6.svg",
+    "static/media/noun_Crane_2832779.fcb64645.svg": "/fundament/static/media/noun_Crane_2832779.fcb64645.svg",
+    "static/media/noun_Shovel_3152916.31a33a5c.svg": "/fundament/static/media/noun_Shovel_3152916.31a33a5c.svg",
+    "static/media/noun_seasons_3777488.17c751e9.svg": "/fundament/static/media/noun_seasons_3777488.17c751e9.svg",
+    "static/media/noun_success_2320782.bb6ae868.svg": "/fundament/static/media/noun_success_2320782.bb6ae868.svg",
+    "static/media/noun_warranty_2479449.0d15b257.svg": "/fundament/static/media/noun_warranty_2479449.0d15b257.svg",
+    "static/media/pier.18458cf1.jpg": "/fundament/static/media/pier.18458cf1.jpg",
+    "static/media/terraces.6638817f.jpg": "/fundament/static/media/terraces.6638817f.jpg",
+    "static/media/verandas.b85bab07.jpg": "/fundament/static/media/verandas.b85bab07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.607132ed.js",
+    "static/js/2.dcd3c693.chunk.js",
+    "static/css/main.b30ff817.chunk.css",
+    "static/js/main.ef9f6c9b.chunk.js"
+  ]
+}
