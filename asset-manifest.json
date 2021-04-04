@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/fundament/static/css/main.b30ff817.chunk.css",
-    "main.js": "/fundament/static/js/main.ef9f6c9b.chunk.js",
-    "main.js.map": "/fundament/static/js/main.ef9f6c9b.chunk.js.map",
+    "main.js": "/fundament/static/js/main.b74f0c49.chunk.js",
+    "main.js.map": "/fundament/static/js/main.b74f0c49.chunk.js.map",
     "runtime-main.js": "/fundament/static/js/runtime-main.607132ed.js",
     "runtime-main.js.map": "/fundament/static/js/runtime-main.607132ed.js.map",
-    "static/js/2.dcd3c693.chunk.js": "/fundament/static/js/2.dcd3c693.chunk.js",
-    "static/js/2.dcd3c693.chunk.js.map": "/fundament/static/js/2.dcd3c693.chunk.js.map",
+    "static/js/2.4d558b73.chunk.js": "/fundament/static/js/2.4d558b73.chunk.js",
+    "static/js/2.4d558b73.chunk.js.map": "/fundament/static/js/2.4d558b73.chunk.js.map",
     "index.html": "/fundament/index.html",
-    "static/css/main.b30ff817.chunk.css.map": "/fundament/static/css/main.b30ff817.chunk.css.map",
-    "static/js/2.dcd3c693.chunk.js.LICENSE.txt": "/fundament/static/js/2.dcd3c693.chunk.js.LICENSE.txt",
+    "static/js/2.4d558b73.chunk.js.LICENSE.txt": "/fundament/static/js/2.4d558b73.chunk.js.LICENSE.txt",
     "static/media/VIBER-LOGO.aa0541f3.png": "/fundament/static/media/VIBER-LOGO.aa0541f3.png",
     "static/media/annexes.48c28773.jpg": "/fundament/static/media/annexes.48c28773.jpg",
     "static/media/bath.b93e142d.jpg": "/fundament/static/media/bath.b93e142d.jpg",
@@ -19,7 +17,7 @@
     "static/media/garage.29096c1b.webp": "/fundament/static/media/garage.29096c1b.webp",
     "static/media/gazebos.ef3156ea.jpg": "/fundament/static/media/gazebos.ef3156ea.jpg",
     "static/media/greenhouse.70815489.jpg": "/fundament/static/media/greenhouse.70815489.jpg",
-    "static/media/style.scss": "/fundament/static/media/headerImg1.81b3b026.jpg",
+    "static/media/headerImg1.81b3b026.jpg": "/fundament/static/media/headerImg1.81b3b026.jpg",
     "static/media/home.805ab60b.jpg": "/fundament/static/media/home.805ab60b.jpg",
     "static/media/noun_Best price_3328523.4012b5cc.svg": "/fundament/static/media/noun_Best price_3328523.4012b5cc.svg",
     "static/media/noun_Calendar_3824152.42f220d6.svg": "/fundament/static/media/noun_Calendar_3824152.42f220d6.svg",
@@ -34,8 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.607132ed.js",
-    "static/js/2.dcd3c693.chunk.js",
-    "static/css/main.b30ff817.chunk.css",
-    "static/js/main.ef9f6c9b.chunk.js"
+    "static/js/2.4d558b73.chunk.js",
+    "static/js/main.b74f0c49.chunk.js"
   ]
 }
