@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.js": "/fundament/static/js/main.b38fa586.chunk.js",
-    "main.js.map": "/fundament/static/js/main.b38fa586.chunk.js.map",
+    "main.css": "/fundament/static/css/main.75df5c3a.chunk.css",
+    "main.js": "/fundament/static/js/main.a2456857.chunk.js",
+    "main.js.map": "/fundament/static/js/main.a2456857.chunk.js.map",
     "runtime-main.js": "/fundament/static/js/runtime-main.607132ed.js",
     "runtime-main.js.map": "/fundament/static/js/runtime-main.607132ed.js.map",
-    "static/js/2.afb1dde2.chunk.js": "/fundament/static/js/2.afb1dde2.chunk.js",
-    "static/js/2.afb1dde2.chunk.js.map": "/fundament/static/js/2.afb1dde2.chunk.js.map",
+    "static/js/2.2dd29f02.chunk.js": "/fundament/static/js/2.2dd29f02.chunk.js",
+    "static/js/2.2dd29f02.chunk.js.map": "/fundament/static/js/2.2dd29f02.chunk.js.map",
     "index.html": "/fundament/index.html",
-    "static/js/2.afb1dde2.chunk.js.LICENSE.txt": "/fundament/static/js/2.afb1dde2.chunk.js.LICENSE.txt",
+    "static/css/main.75df5c3a.chunk.css.map": "/fundament/static/css/main.75df5c3a.chunk.css.map",
+    "static/js/2.2dd29f02.chunk.js.LICENSE.txt": "/fundament/static/js/2.2dd29f02.chunk.js.LICENSE.txt",
     "static/media/SINGLE ROOF.5e01e5eb.jpg": "/fundament/static/media/SINGLE ROOF.5e01e5eb.jpg",
     "static/media/VIBER-LOGO.aa0541f3.png": "/fundament/static/media/VIBER-LOGO.aa0541f3.png",
     "static/media/annexes.48c28773.jpg": "/fundament/static/media/annexes.48c28773.jpg",
+    "static/media/assistance.e693eba9.jpg": "/fundament/static/media/assistance.e693eba9.jpg",
     "static/media/bath.b93e142d.jpg": "/fundament/static/media/bath.b93e142d.jpg",
     "static/media/baths from pgs.fc36ebbc.jpg": "/fundament/static/media/baths from pgs.fc36ebbc.jpg",
     "static/media/baths insulation.1c6beb33.jpg": "/fundament/static/media/baths insulation.1c6beb33.jpg",
     "static/media/bridge.f2f444de.jpg": "/fundament/static/media/bridge.f2f444de.jpg",
+    "static/media/calculation.eb63f3e1.jpg": "/fundament/static/media/calculation.eb63f3e1.jpg",
     "static/media/canopy.66979f95.jpg": "/fundament/static/media/canopy.66979f95.jpg",
     "static/media/dismantling of roofs.c983bda5.jpg": "/fundament/static/media/dismantling of roofs.c983bda5.jpg",
     "static/media/fence.43727d90.jpg": "/fundament/static/media/fence.43727d90.jpg",
@@ -33,15 +37,18 @@
     "static/media/noun_seasons_3777488.17c751e9.svg": "/fundament/static/media/noun_seasons_3777488.17c751e9.svg",
     "static/media/noun_success_2320782.bb6ae868.svg": "/fundament/static/media/noun_success_2320782.bb6ae868.svg",
     "static/media/noun_warranty_2479449.0d15b257.svg": "/fundament/static/media/noun_warranty_2479449.0d15b257.svg",
+    "static/media/obvyzka.68ebdbb8.jpeg": "/fundament/static/media/obvyzka.68ebdbb8.jpeg",
     "static/media/pier.18458cf1.jpg": "/fundament/static/media/pier.18458cf1.jpg",
     "static/media/pitched roof.45aacd85.jpg": "/fundament/static/media/pitched roof.45aacd85.jpg",
     "static/media/reconstruction roof.3e953ecb.jpg": "/fundament/static/media/reconstruction roof.3e953ecb.jpg",
     "static/media/terraces.6638817f.jpg": "/fundament/static/media/terraces.6638817f.jpg",
-    "static/media/verandas.b85bab07.jpg": "/fundament/static/media/verandas.b85bab07.jpg"
+    "static/media/verandas.b85bab07.jpg": "/fundament/static/media/verandas.b85bab07.jpg",
+    "static/media/visit.70e94f5a.png": "/fundament/static/media/visit.70e94f5a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.607132ed.js",
-    "static/js/2.afb1dde2.chunk.js",
-    "static/js/main.b38fa586.chunk.js"
+    "static/js/2.2dd29f02.chunk.js",
+    "static/css/main.75df5c3a.chunk.css",
+    "static/js/main.a2456857.chunk.js"
   ]
 }
