@@ -78,10 +78,10 @@ const [modal] = useContext(ModalContext);
       <HeaderNav/>
       <ScrollToTop>
         <Switch>
-          <Route exact path='/fundament' render={()=><Fundament itemsCard={fundamentItemsCard}/>}/>
+          <Route exact path='/' render={()=><Fundament itemsCard={fundamentItemsCard}/>}/>
           <Route path='/roofing' render={()=><Roofing itemsCard={roofingItemCard}/>}/>
           <Route path='/turnkeysaunas' render={()=><TurnkeySaunas itemsCard={roofingItemCard}/>}/>
-          <Redirect from='*' to='/fundament'/>
+          <Redirect from='*' to='/'/>
         </Switch>
       </ScrollToTop>
       <AdditionalServices/>

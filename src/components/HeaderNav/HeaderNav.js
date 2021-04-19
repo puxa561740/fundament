@@ -7,7 +7,7 @@ import HeaderNavKontakt from './headerNavKontakt';
 const HeaderNav =()=>{
   const [burgerActive, setBurgerActive] = useState(false);
   const services = [{
-    link: '/fundament',
+    link: '/',
     heading: 'Фундамент',
   }, {
     link: '/roofing',

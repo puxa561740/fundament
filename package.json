@@ -2,7 +2,7 @@
   "name": "fundament",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://puxa561740.github.io/fundament",
+  "homepage": "https://fundament56.000webhostapp.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -12,6 +12,7 @@
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-input-mask": "^2.0.4",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "styled-components": "^5.2.2",
