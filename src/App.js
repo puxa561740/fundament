@@ -71,8 +71,6 @@ const roofingItemCard = [{
 },
 ];
 
-const [modal] = useContext(ModalContext);
-
   return (<>
     <main>
       <HeaderNav/>

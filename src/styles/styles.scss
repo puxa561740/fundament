@@ -277,7 +277,6 @@
 .activeBurgerMenu {
   transform: translateX(0);
 }
-
 .modalForm {
   position: fixed;
   width: 100vw;
@@ -285,22 +284,195 @@
   top: 0;
   left: 0;
   z-index: 500;
+  .modal__answer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 28vh;
+    left: 42vw;
+    width: 250px;
+    height: 250px;
+    color: #fff;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    border-radius: 20px;
+    @media (max-width: 1000px) {
+      left: 30vw;
+    }
+    @media (max-width: 650px) {
+      left: 30vw;
+      height: 150px;
+      width: 150px;
+    }
+    @media (max-width: 450px) {
+      left: 20vw;
+    }
+    > p {
+      font-size: 1.5rem;
+      font-weight: 600;
+      z-index: 10;
+      @media (max-width: 650px) {
+        font-size: 1rem;
+        font-weight: 400;
+      }
+    }
+  }
+  .modal__answer_notOk {
+    background: url(../assets/modal_icons/not_ok.png) 50% 50% / 100% 100%
+      no-repeat;
+  }
+  .modal__answer_ok {
+    background: url(../assets/modal_icons/ok.jpg) 50% 50% / 100% 100% no-repeat;
+  }
+  .modal__answer_ok::after,
+  .modal__answer_notOk::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+  }
+
   .modalForm__context {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 30vh;
-    left: 30vw;
-    height: 200px;
-    width: 500px;
+    top: 20vh;
+    left: 38vw;
+    width: 450px;
     background-color: #fff;
+    @media (max-width: 1250px) {
+      left: 30vw;
+    }
+    @media (max-width: 1000px) {
+      top: 30vh;
+      left: 30vw;
+      width: 350px;
+    }
+    @media (max-width: 650px) {
+      top: 10vh;
+      left: 20vw;
+      width: 250px;
+    }
+    @media (max-width: 450px) {
+      left: center;
+    }
+  }
+  #form {
+    border: 5px solid #000;
+    border-radius: 50px;
+    position: relative;
+    .modalForm__close:hover {
+      .modalForm__close_one,
+      .modalForm__close_two {
+        background-color: red;
+      }
+    }
+    .modalForm__close {
+      position: absolute;
+      top: 25px;
+      right: 60px;
+      @media (max-width: 650px) {
+        top: 15px;
+        right: 45px;
+      }
+      .modalForm__close_one {
+        transform: rotate(-50deg);
+      }
+      .modalForm__close_two {
+        transform: rotate(50deg);
+      }
+      .modalForm__close_one,
+      .modalForm__close_two {
+        position: absolute;
+        cursor: pointer;
+        width: 35px;
+        height: 5px;
+        background-color: #000;
+        @media (max-width: 1000px) {
+          width: 20px;
+          height: 3px;
+        }
+      }
+    }
+  }
+  .modalForm__button {
+    margin: 30px 0;
+    font-size: 2rem;
+    font-weight: 600;
+    border: 3px solid #000;
+    border-radius: 30px;
+    padding: 5px 10px;
+    cursor: pointer;
+    outline: none;
+    background-color: red;
+    color: #fff;
+    @media (max-width: 1000px) {
+      font-size: 1.5rem;
+      font-weight: 400;
+      margin: 23px;
+    }
+    @media (max-width: 650px) {
+      font-size: 1rem;
+      font-weight: 400;
+      margin: 15px;
+    }
+  }
+  .modalForm__button:hover {
+    background-color: grey;
+    border: 3px solid red;
+  }
+  .modalForm__header {
+    font-size: 2rem;
+    font-weight: 800;
+    @media (max-width: 1000px) {
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+    @media (max-width: 650px) {
+      font-size: 1.2rem;
+      font-weight: 400;
+    }
   }
   .modalForm__name,
-  .modalForm__mail {
+  .modalForm__tel {
+    text-align: center;
     > p {
+      font-size: 1.7rem;
+      font-weight: 600;
       color: #000;
+      @media (max-width: 1000px) {
+        font-size: 1.3rem;
+        font-weight: 600;
+      }
+      @media (max-width: 650px) {
+        font-size: 0.9rem;
+        font-weight: 400;
+      }
+    }
+    > input {
+      width: 320px;
+      height: 30px;
+      border-radius: 20px;
+      display: block;
+      text-align: center;
+      outline: none;
+      font-size: 1.4rem;
+      @media (max-width: 1000px) {
+        font-size: 1rem;
+        width: 250px;
+      }
+      @media (max-width: 650px) {
+        font-size: 0.7rem;
+        width: 150px;
+      }
     }
   }
 }
