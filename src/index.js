@@ -5,11 +5,11 @@ import ModalProvider from './ModalContext/ModalContext';
 import App from './App';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
     <ModalProvider>
        <App />
     </ModalProvider>
-  </BrowserRouter>
+  </HashRouter>
   ,
   document.getElementById('root')
 );
