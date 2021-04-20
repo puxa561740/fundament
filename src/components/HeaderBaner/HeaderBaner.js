@@ -13,7 +13,7 @@ const HeaderBaner = ({itemsCard})=>{
       <div className='headerBanerIn'>
         <h3>Работаем по всей Беларуси</h3>
         <h1>Фундамент на винтовых сваях <br/> любой сложности <span>Всего за 1-2 дня!</span></h1>
-        <h3>Без предоплаты</h3>
+        <h3 className='h3Prise'>Без предоплаты</h3>
         <div className='cardContainer' >
           {itemsCard.map((item, index)=>{
             return <HeaderCard srcImg={item.urlImg} text={item.cardText} key={index*15} />

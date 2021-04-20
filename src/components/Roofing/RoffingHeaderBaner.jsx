@@ -49,7 +49,8 @@ const Roofing = ({itemsCard})=>{
   return (<>
   <S.Section1 className='headerBanerContainer'>
     <div className='headerBanerIn'>
-        <h1>Кровельные работы по Гомелю и области</h1>
+        <h3>Работаем по Гомелю и области</h3>
+        <h1>Кровельные работы ЛЮБОЙ сложности</h1>
         <h2>Под ключ</h2>
         <h2>Без предоплаты</h2>
         <div className='cardContainer' >
